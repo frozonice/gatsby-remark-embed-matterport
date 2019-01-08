@@ -1,6 +1,7 @@
 # gatsby-remark-embed-matterport
 Embed a Matterport or MPEmbed showcase in your Markdown
 
+Inspired by [gatsby-remark-embed-youtube](https://github.com/ntwcklng/gatsby-remark-embed-youtube)
 
 ## Install 
 1. Install plugin to your site:
