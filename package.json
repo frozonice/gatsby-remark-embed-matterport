@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-embed-matterport",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Embed Matterport & MPEmbed in Gatsby via Markdown",
   "main": "index.js",
   "author": "Justin Chambers <justin@chambers.work>",
