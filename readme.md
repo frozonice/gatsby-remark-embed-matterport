@@ -42,7 +42,7 @@ plugins: [
 ## Usage
 
 ```markdown
-# Look at this Video:
+# Look at this Showcase:
 
 `matterport:https://my.matterport.com/show/?m=SpggAca2PAh`
 
